@@ -4,3 +4,4 @@ This repo will contain the codes to the Competitive Programming problems solved 
 
 ## Contents :
 * Sorting
+* Searching
