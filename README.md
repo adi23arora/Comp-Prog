@@ -8,3 +8,4 @@ This repo will contain the codes to the Competitive Programming problems solved 
 *   Greedy Approach
 *   Trees
 *   Graphs
+*   Mathematical
