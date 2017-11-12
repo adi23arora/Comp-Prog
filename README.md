@@ -6,3 +6,4 @@ This repo will contain the codes to the Competitive Programming problems solved 
 *   Sorting
 *   Searching
 *   Greedy Approach
+*   Trees
