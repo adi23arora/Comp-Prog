@@ -7,3 +7,4 @@ This repo will contain the codes to the Competitive Programming problems solved 
 *   Searching
 *   Greedy Approach
 *   Trees
+*   Graphs
